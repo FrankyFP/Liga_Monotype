@@ -14,8 +14,8 @@ tr a:hover {
     background-color: black;
 }
 table {
-    position: sticky;
-    z-index: 5;
+    position: fixed;
+    z-index: 2;
     background-color: grey;
     top: 0%;
     left: 0%;
