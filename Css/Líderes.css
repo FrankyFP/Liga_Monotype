@@ -1,0 +1,61 @@
+body{
+    color: black;
+    text-shadow: 0.1em 0.1em 0.15em black;
+}
+div {
+    font-size: large;
+}
+.Tierra {
+background-color: burlywood;
+}
+.Veneno {
+background-color: blueviolet;
+}
+.Hada {
+background-color: pink;
+}
+.Eléctrico {
+background-color: yellow;
+}
+.Planta {
+background-color: greenyellow;
+}
+.Fuego {
+background-color: red;
+}
+.Volador {
+background-color: cornflowerblue;
+}
+.Acero {
+background-color: grey;
+}
+.Agua {
+background-color: aqua;
+}
+.Fantasma {
+background-color: darkmagenta;
+}
+.Bicho {
+background-color: green;
+}
+.Psíquico {
+background-color: fuchsia;
+}
+.Dragón {
+background-color: blue;
+}
+.Siniestro {
+background-color: darkslategrey;
+}
+.Lucha {
+background-color: brown;
+}
+.Normal {
+background-color: white;
+}
+.Hielo {
+background-color: aquamarine;
+}
+.Reserva {
+    color: red;
+}
