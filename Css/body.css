@@ -1,6 +1,7 @@
 body {
     color: orangered;
     background-color: black;
+    text-shadow: 0.1em 0.1em 0.15em black;
 }
 div {
     text-align: center;
