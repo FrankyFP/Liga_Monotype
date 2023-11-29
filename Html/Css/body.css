@@ -1,0 +1,23 @@
+body {
+    color: red;
+    background-color: black;
+}
+div {
+    text-align: center;
+}
+tr a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: rgb(181, 220, 255);
+}
+tr a:hover {
+    background-color: black;
+}
+table {
+    position: sticky;
+    z-index: 5;
+    background-color: grey;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+}
