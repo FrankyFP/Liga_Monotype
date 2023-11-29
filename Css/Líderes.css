@@ -1,5 +1,5 @@
 body{
-    color: black;
+    color: aqua;
     text-shadow: 0.1em 0.1em 0.15em black;
 }
 div {
@@ -33,7 +33,7 @@ background-color: cornflowerblue;
 background-color: grey;
 }
 .Agua {
-background-color: aqua;
+background-color: blue;
 }
 .Fantasma {
 background-color: darkmagenta;
@@ -45,20 +45,20 @@ background-color: green;
 background-color: fuchsia;
 }
 .Dragón {
-background-color: blue;
+background-color: orangered;
 }
 .Siniestro {
-background-color: darkslategrey;
+background-color: rgb(25, 41, 41);
 }
 .Lucha {
-background-color: brown;
+background-color: rgb(238, 145, 69);
 }
 .Normal {
-background-color: white;
+background-color: rgb(252, 143, 104);
 }
 .Hielo {
-background-color: aquamarine;
+background-color: rgb(215, 250, 250);
 }
 .Reserva {
-    color: red;
+    color: rgb(255, 136, 0);
 }
