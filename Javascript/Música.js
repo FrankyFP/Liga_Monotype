@@ -6,7 +6,6 @@ function playAudio(audioId) {
 
     if (currentAudio && currentAudio !== audioElement) {
         currentAudio.pause();
-        playingSpan.innerHTML = '';
     }
 
     if (audioElement.paused) {
