@@ -1,12 +1,12 @@
 .enlace {
-    color: #00ffd5; /* Cambia el color del texto del enlace a rojo */
+    color: rgb(255, 136, 0);
     text-decoration: none; /* Quita el subrayado del enlace */
-}
-
-.enlace:hover {
-    color: red;
 }
 
 .enlace:visited {
     color: rgb(0, 225, 255);
+}
+
+.enlace:hover {
+    color: red;
 }

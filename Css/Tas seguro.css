@@ -1,0 +1,13 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    background-image: url(../Imágenes/Fondo-Miedo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+}
