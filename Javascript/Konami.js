@@ -39,7 +39,7 @@ function checkCode(e) {
 }
 
 function cheatCodeActivated() {
-    location.href = "pagina.html";
+    location.href = "../Html/Tas_seguro.html";
 }
 
 function resetKeyState() {
