@@ -1,5 +1,5 @@
 .enlace {
-    color: rgb(255, 136, 0);
+    color: #00ffd5; /* Cambia el color del texto del enlace a rojo */
     text-decoration: none; /* Quita el subrayado del enlace */
 }
 

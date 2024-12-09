@@ -6,14 +6,14 @@ body{
 .pantalla{
     width: 100vw;
     height: 100vh;
-    background-image: url(../Imágenes/Alquiler_jumscare.webp), url(../Imágenes/logo-agencia-tributaria.png), url(../Imágenes/Typlosion.gif) , url(../Imágenes/Bosque.jpeg);
+    background-image: url(../Imágenes/Zombie.png), url(../Imágenes/Zombie-cono.png), url(../Imágenes/Typlosion.gif) , url(../Imágenes/Bosque.jpeg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 30% 60%, 30% 60% , 40% 70% , 100% 100%;
-    background-position: 100% 50%, 0% 60%, 50% 50% , center center;
+    background-size: 30% 60%, 20% 60% , 40% 70% , 100% 100%;
+    background-position: 100% 50%, 10% 60%, 50% 50% , center center;
 }
 .pantalla:hover{
-    background-image: url(../Imágenes/presidente_pedro_sanchez.jpeg);
+    background-image: url(../Imágenes/Hacienda.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;

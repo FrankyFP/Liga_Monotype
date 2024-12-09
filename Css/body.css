@@ -1,8 +1,8 @@
 body {
-    color: rgb(255, 136, 0);
+    color: aqua;
     background-color: black;
     text-shadow: 0.1em 0.1em 0.15em black;
-    background-image: url(../Imágenes/halloween-background-png.webp), url(../Imágenes/LogoDeFondo.png);
+    background-image: url(../Imágenes/LogoDeFondo.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -13,7 +13,7 @@ div {
 tr a{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: none;
-    color: rgb(252, 122, 0);
+    color: rgb(181, 220, 255);
 }
 tr a:hover {
     background-color: black;
@@ -31,6 +31,10 @@ table {
     background-color:inherit;
     top: 25%;
     width: 100%;
-    display: flex;
-    justify-content: center;
+      display: flex;
+      justify-content: center;
+}
+
+li {
+    list-style-type:decimal;
 }
