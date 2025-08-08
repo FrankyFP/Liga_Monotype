@@ -40,14 +40,3 @@ table {
 li {
     list-style-type:decimal;
 }
-
-.recuadrov2 {
-            border: 2px solid black;    /* Borde negro de 2px */
-            padding: 20px;              /* Espacio interno */
-            margin: 20px;               /* Espacio externo */
-            max-width: 43%;           /* Ajusta el ancho máximo */
-            background-color: #4d4b4b;  /* Color de fondo */
-            border-radius: 10px;        /* Esquinas redondeadas */
-            word-break: break-word;
-            text-align: left;
-}
