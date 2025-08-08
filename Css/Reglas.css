@@ -1,3 +1,14 @@
 h2 {
     background-color: rgb(34, 34, 34);
 }
+.recuadro {
+            border: 2px solid black;    /* Borde negro de 2px */
+            padding: 20px;              /* Espacio interno */
+            margin: 20px;               /* Espacio externo */
+            background-color: #4d4b4b;  /* Color de fondo */
+            border-radius: 10px;        /* Esquinas redondeadas */
+        }
+
+.normas {
+    color: rgb(70, 248, 204);
+}
